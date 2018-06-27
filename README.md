@@ -2,9 +2,10 @@
 
 > A curated list of Weimars's awesomeness
 
-Idea and template of this list by [AwesomeCities](https://github.com/AwesomeCities)
-
 ## Coffee
+
+- [s140](https://goo.gl/maps/XTCSUPEL1V72)
+- [OMA Café](http://xn--omacaf-gva.eu/ueber_die_oma)
 
 
 ## Lunch
@@ -14,6 +15,8 @@ Idea and template of this list by [AwesomeCities](https://github.com/AwesomeCiti
 ## Beverages
 
 - [Bock](https://goo.gl/maps/P36usduzaBM2)
+- [Nachtsaktiv](http://www.nachtsaktiv.de/)
+
 ## Restaurants
 
 - [Jelo](https://goo.gl/maps/fq1wxMXWAP92) - Each day different soups [![Vegan](https://img.shields.io/badge/vegan%3F-yes-green.svg)]()
