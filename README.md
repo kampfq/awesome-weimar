@@ -60,6 +60,7 @@
 
 ## Made in Weimar
 
+- [KeepassXC](https://keepassxc.org)
 
 
 ## Locations
