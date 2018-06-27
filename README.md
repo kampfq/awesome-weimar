@@ -7,14 +7,14 @@
 
 ## Lunch
 
-- [Pho Co](https://goo.gl/maps/zqSVBfz1rsN2)[![Vegan](https://img.shields.io/badge/vegan%3F-yes-green.svg)]()
+- [Pho Co](https://goo.gl/maps/zqSVBfz1rsN2) [![Vegan](https://img.shields.io/badge/vegan%3F-yes-green.svg)]()
 
 ## Beverages
 
 - [Bock](https://goo.gl/maps/P36usduzaBM2)
 ## Restaurants
 
-- [Jelo](https://goo.gl/maps/fq1wxMXWAP92) - Each day different soups, [![Vegan](https://img.shields.io/badge/vegan%3F-yes-green.svg)]()
+- [Jelo](https://goo.gl/maps/fq1wxMXWAP92) - Each day different soups [![Vegan](https://img.shields.io/badge/vegan%3F-yes-green.svg)]()
  
 
 ## Food Markets
@@ -22,13 +22,16 @@
 
 ## Handcrafted Food
 
-- [Brotklappe](https://goo.gl/maps/RVcWHqij5JM2)
+- [Brotklappe](https://goo.gl/maps/RVcWHqij5JM2) [![Vegan](https://img.shields.io/badge/vegan%3F-yes-green.svg)]()
 - [Koriat Kuchenmanufaktur](https://goo.gl/maps/nabLrYsv5FH2)
 
 
 ## Bars
 
 - [Zum Falken](https://goo.gl/maps/qYhSkdSwBTR2)
+- [Stubenfliege](https://goo.gl/maps/4fEGBPZQca32)
+
+
 
 
 ## Nightlife
