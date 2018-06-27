@@ -22,7 +22,7 @@ Idea and structure by [AwesomeCities](https://github.com/AwesomeCities)
 ## Restaurants
 
 - [Jelo](https://goo.gl/maps/fq1wxMXWAP92) - Each day different soups [![Vegan](https://img.shields.io/badge/vegan%3F-yes-green.svg)]()
-- [San](https://goo.gl/maps/wVFnnUnw8e52) - traditional kerean food [![Vegan](https://img.shields.io/badge/vegan%3F-yes-green.svg)]()
+- [San](https://goo.gl/maps/wVFnnUnw8e52) - traditional korean food [![Vegan](https://img.shields.io/badge/vegan%3F-yes-green.svg)]()
  
 
 ## Food Markets
@@ -62,6 +62,8 @@ Idea and structure by [AwesomeCities](https://github.com/AwesomeCities)
 
 - [Kirschbachtal](https://goo.gl/maps/UspunXFANG12)
 - [Webicht](https://de.wikipedia.org/wiki/Webicht) 
+- [Stromergarten](https://goo.gl/maps/vM2PdEf2bLM2) 
+
 
 
 ## Made in Weimar
