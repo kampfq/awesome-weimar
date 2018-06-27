@@ -51,7 +51,6 @@
 
 ## Relaxing
 
-- [Vabali Spa Berlin](https://goo.gl/maps/TZBD4UVdWR92)
 
 ## Made in Weimar
 
