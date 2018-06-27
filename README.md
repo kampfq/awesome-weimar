@@ -20,6 +20,7 @@
 ## Restaurants
 
 - [Jelo](https://goo.gl/maps/fq1wxMXWAP92) - Each day different soups [![Vegan](https://img.shields.io/badge/vegan%3F-yes-green.svg)]()
+- [San](https://goo.gl/maps/wVFnnUnw8e52) - traditional kerean food [![Vegan](https://img.shields.io/badge/vegan%3F-yes-green.svg)]()
  
 
 ## Food Markets
