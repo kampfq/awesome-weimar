@@ -2,7 +2,7 @@
 
 > A curated list of Weimars's awesomeness
 
-Idea and structure by [AwesomeCities](https://github.com/AwesomeCities)
+Idea and structure by [AwesomeCities](https://github.com/AwesomeCities)	
 
 ## Coffee
 
@@ -38,13 +38,14 @@ Idea and structure by [AwesomeCities](https://github.com/AwesomeCities)
 
 - [Zum Falken](https://goo.gl/maps/qYhSkdSwBTR2)
 - [Stubenfliege](https://goo.gl/maps/4fEGBPZQca32)
-
+- [Salon Konetzny](https://goo.gl/maps/bX4J35V7qyj)
+- [Reservebank](https://goo.gl/maps/Y3BB2QeU8gH2)
 
 ## Nightlife
 
 - [Gaswerk](https://goo.gl/maps/boaJZeyBUVx)
 - [C Keller](https://goo.gl/maps/fCBLdsQMxMo)
-
+- [Gerberstraße 3](http://www.gerberstrasse.org/)
 
 
 ## Shops
@@ -59,10 +60,14 @@ Idea and structure by [AwesomeCities](https://github.com/AwesomeCities)
 
 ## Relaxing
 
+- [Kirschbachtal](https://goo.gl/maps/UspunXFANG12)
+- [Webicht](https://de.wikipedia.org/wiki/Webicht) 
+
 
 ## Made in Weimar
 
 - [KeepassXC](https://keepassxc.org)
+- [Weimarnetz](https://weimarnetz.de) 
 
 
 ## Locations
