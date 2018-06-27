@@ -2,6 +2,8 @@
 
 > A curated list of Weimars's awesomeness
 
+Idea and structure by [AwesomeCities](https://github.com/AwesomeCities)
+
 ## Coffee
 
 - [s140](https://goo.gl/maps/XTCSUPEL1V72)
